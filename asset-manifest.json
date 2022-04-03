@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minhhieu215/wordle.github.io/static/css/main.79fde4db.css",
+    "main.js": "/minhhieu215/wordle.github.io/static/js/main.18391008.js",
+    "index.html": "/minhhieu215/wordle.github.io/index.html",
+    "main.79fde4db.css.map": "/minhhieu215/wordle.github.io/static/css/main.79fde4db.css.map",
+    "main.18391008.js.map": "/minhhieu215/wordle.github.io/static/js/main.18391008.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79fde4db.css",
+    "static/js/main.18391008.js"
+  ]
+}
